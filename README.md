@@ -5,4 +5,4 @@ In short, company have to be very selective and go through rigorous hiring proce
 ## Purpose
 Create machine learning model to classify whether employee classified to stay or leave
 ## Notes
-This is classification task and i build 2 model which LogisticRegressin and RandomForest
+This is classification task and i build 2 model which LogisticRegression and RandomForest
